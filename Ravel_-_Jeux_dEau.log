@@ -7,3 +7,24 @@ MC 74 is longer 15/8 than its nominal duration 1.
 MC 75 (3/8) and MC 76 (1) don't add up to 1.
 Done parsing Ravel_-_Jeux_dEau.mscx
 
+The following chords could not be parsed:
+     mc  mn onset        label
+ix                            
+37   11  11   1/2  .bIIM43(+4)
+73   26  26     0      .bI.IM7
+102  36  36   3/4      .bIII.I
+126  45  45     0    .bV.vii%7
+184  60  60   5/8     .bVII64]
+186  60  60   7/8      .bVII64
+211  68  68   1/2      .bvii%7
+212  68  68   5/8      .bIII64
+213  68  68   3/4       .bvi%7
+214  68  68   7/8       .bII64
+218  69  69   3/8       .bvi%7
+222  69  69   7/8       .bvi%7
+235  78  78   3/8      .bVIIM7
+239  78  78   7/8      .bVIIM7
+243  79  79   3/8      .bVIIM7
+245  79  79   5/8       .bVIM7
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'
