@@ -1,0 +1,13 @@
+Attempting to parse Ravel_-_Miroirs_I._Noctuelles.mscx
+MC 19 is longer 1 than its nominal duration 3/4.
+MC 31 is longer 7/8 than its nominal duration 5/8.
+MC 36 is longer 21/16 than its nominal duration 3/4.
+MC 51 is longer 21/16 than its nominal duration 5/4.
+MC 103 is longer 1 than its nominal duration 3/4.
+MC 115 is longer 7/8 than its nominal duration 5/8.
+MC 120 is longer 3/2 than its nominal duration 3/4.
+MC 121 is longer 41/16 than its nominal duration 3/4.
+Done parsing Ravel_-_Miroirs_I._Noctuelles.mscx
+
+Failed to expand labels due to syntactic errors:
+Can only use .str accessor with string values!

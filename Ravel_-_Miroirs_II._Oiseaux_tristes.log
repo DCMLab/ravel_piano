@@ -1,0 +1,14 @@
+Attempting to parse Ravel_-_Miroirs_II._Oiseaux_tristes.mscx
+MC 14 is completing MC 13 but has not been excluded from bar count!
+MC 16 is completing MC 15 but has not been excluded from bar count!
+MC 17 (9/16) and MC 18 (1/2) don't add up to 1.
+MC 20 is completing MC 19 but has not been excluded from bar count!
+MC 25 is completing MC 24 but has not been excluded from bar count!
+MC 28 is completing MC 27 but has not been excluded from bar count!
+MC 31 is longer 5/4 than its nominal duration 1/2.
+MC 32 is longer 5/4 than its nominal duration 1/2.
+MC 33 is longer 1 than its nominal duration 1/2.
+Done parsing Ravel_-_Miroirs_II._Oiseaux_tristes.mscx
+
+Failed to expand labels due to syntactic errors:
+Can only use .str accessor with string values!

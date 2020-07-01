@@ -1,0 +1,18 @@
+Attempting to parse Ravel_-_Miroirs_IV._Alborada_del_gracioso.mscx
+MC 58 is longer 7/8 than its nominal duration 3/4.
+MC 70 is longer 1 than its nominal duration 3/4.
+MC 71 is longer 7/8 than its nominal duration 3/4.
+MC 72 is longer 7/8 than its nominal duration 3/4.
+MC 74 is longer 7/8 than its nominal duration 3/4.
+MC 80 is longer 7/8 than its nominal duration 3/4.
+MC 86 is longer 7/8 than its nominal duration 3/4.
+MC 88 is longer 7/8 than its nominal duration 3/4.
+MC 96 is longer 7/8 than its nominal duration 3/4.
+MC 191 is longer 7/8 than its nominal duration 3/4.
+MC 195 is longer 13/16 than its nominal duration 3/4.
+MC 228 is longer 7/8 than its nominal duration 3/4.
+MC 229 is longer 7/8 than its nominal duration 3/4.
+Done parsing Ravel_-_Miroirs_IV._Alborada_del_gracioso.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable
