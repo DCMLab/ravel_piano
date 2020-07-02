@@ -1,13 +1,47 @@
-Attempting to parse Ravel_-_Miroirs_I._Noctuelles.mscx
-MC 19 is longer 1 than its nominal duration 3/4.
-MC 31 is longer 7/8 than its nominal duration 5/8.
-MC 36 is longer 21/16 than its nominal duration 3/4.
-MC 51 is longer 21/16 than its nominal duration 5/4.
-MC 103 is longer 1 than its nominal duration 3/4.
-MC 115 is longer 7/8 than its nominal duration 5/8.
-MC 120 is longer 3/2 than its nominal duration 3/4.
-MC 121 is longer 41/16 than its nominal duration 3/4.
-Done parsing Ravel_-_Miroirs_I._Noctuelles.mscx
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- Attempting to parse Ravel_-_Miroirs_I._Noctuelles.mscx
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 842 in MC 36 has has duration 1/48 and starts on 21/16, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 843 in MC 36 has has duration 1/48 and starts on 4/3, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 844 in MC 36 has has duration 1/48 and starts on 65/48, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 845 in MC 36 has has duration 1/48 and starts on 11/8, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 846 in MC 36 has has duration 1/48 and starts on 67/48, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 847 in MC 36 has has duration 1/48 and starts on 17/12, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 848 in MC 36 has has duration 1/48 and starts on 23/16, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 849 in MC 36 has has duration 1/48 and starts on 35/24, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 850 in MC 36 has has duration 1/48 and starts on 71/48, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 851 in MC 36 has has duration 1/48 and starts on 3/2, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 852 in MC 36 has has duration 1/48 and starts on 73/48, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 853 in MC 36 has has duration 1/48 and starts on 37/24, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 854 in MC 36 has has duration 1/32 and starts on 13/8, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 855 in MC 36 has has duration 1/32 and starts on 53/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 856 in MC 36 has has duration 1/32 and starts on 53/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 857 in MC 36 has has duration 1/32 and starts on 27/16, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 858 in MC 36 has has duration 1/32 and starts on 55/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 859 in MC 36 has has duration 1/32 and starts on 55/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 860 in MC 36 has has duration 1/32 and starts on 7/4, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 861 in MC 36 has has duration 1/32 and starts on 57/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 862 in MC 36 has has duration 1/32 and starts on 57/32, surpassing the measure length of 21/16
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1645 in MC 120 has has duration 1/24 and starts on 3/2, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1646 in MC 120 has has duration 1/24 and starts on 37/24, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1647 in MC 120 has has duration 1/24 and starts on 19/12, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1648 in MC 120 has has duration 1/24 and starts on 13/8, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1649 in MC 120 has has duration 1/24 and starts on 5/3, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1650 in MC 120 has has duration 1/24 and starts on 41/24, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1651 in MC 120 has has duration 1/32 and starts on 7/4, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1652 in MC 120 has has duration 1/32 and starts on 7/4, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1653 in MC 120 has has duration 1/32 and starts on 57/32, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1654 in MC 120 has has duration 1/32 and starts on 29/16, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1655 in MC 120 has has duration 1/32 and starts on 59/32, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1656 in MC 120 has has duration 1/32 and starts on 15/8, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1657 in MC 120 has has duration 1/32 and starts on 61/32, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1658 in MC 120 has has duration 1/32 and starts on 31/16, surpassing the measure length of 3/2
+WARNING  Ravel_-_Miroirs_I._Noctuelles.ms3 -- Event 1659 in MC 120 has has duration 1/32 and starts on 63/32, surpassing the measure length of 3/2
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 19 is longer 1 than its nominal duration 3/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 31 is longer 7/8 than its nominal duration 5/8.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 36 is longer 21/16 than its nominal duration 3/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 51 is longer 21/16 than its nominal duration 5/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 103 is longer 1 than its nominal duration 3/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 115 is longer 7/8 than its nominal duration 5/8.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 120 is longer 3/2 than its nominal duration 3/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- MC 121 is longer 41/16 than its nominal duration 3/4.
+INFO     Ravel_-_Miroirs_I._Noctuelles.ms3 -- Done parsing Ravel_-_Miroirs_I._Noctuelles.mscx
 
-Failed to expand labels due to syntactic errors:
-Can only use .str accessor with string values!

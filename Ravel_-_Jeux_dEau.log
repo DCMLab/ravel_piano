@@ -1,30 +1,38 @@
-Attempting to parse Ravel_-_Jeux_dEau.mscx
-MC 12 (1/4) and MC 13 (1) don't add up to 1.
-MC 18 is longer 17/16 than its nominal duration 1.
-MC 37 is longer 3/2 than its nominal duration 1.
-MC 73 is longer 7/4 than its nominal duration 1.
-MC 74 is longer 15/8 than its nominal duration 1.
-MC 75 (3/8) and MC 76 (1) don't add up to 1.
-Done parsing Ravel_-_Jeux_dEau.mscx
+INFO     Ravel_-_Jeux_dEau.ms3 -- Attempting to parse Ravel_-_Jeux_dEau.mscx
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 1062 in MC 26 has has duration 1/2 and starts on 1, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 1063 in MC 26 has has duration 1/2 and starts on 1, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 1064 in MC 26 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 1065 in MC 26 has has duration 1/2 and starts on 3/2, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2272 in MC 48 has has duration 1/100 and starts on 1, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2273 in MC 48 has has duration 1/100 and starts on 101/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2274 in MC 48 has has duration 1/100 and starts on 51/50, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2275 in MC 48 has has duration 1/100 and starts on 103/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2276 in MC 48 has has duration 1/100 and starts on 26/25, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2277 in MC 48 has has duration 1/100 and starts on 21/20, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2278 in MC 48 has has duration 1/100 and starts on 53/50, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2279 in MC 48 has has duration 1/100 and starts on 107/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2280 in MC 48 has has duration 1/100 and starts on 27/25, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2281 in MC 48 has has duration 1/100 and starts on 109/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2282 in MC 48 has has duration 1/100 and starts on 11/10, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2283 in MC 48 has has duration 1/100 and starts on 111/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2284 in MC 48 has has duration 1/100 and starts on 28/25, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2285 in MC 48 has has duration 1/100 and starts on 113/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2286 in MC 48 has has duration 1/100 and starts on 57/50, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2287 in MC 48 has has duration 1/100 and starts on 23/20, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2288 in MC 48 has has duration 1/100 and starts on 29/25, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2289 in MC 48 has has duration 1/100 and starts on 117/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2290 in MC 48 has has duration 1/100 and starts on 59/50, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2291 in MC 48 has has duration 1/100 and starts on 119/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2292 in MC 48 has has duration 1/100 and starts on 6/5, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2293 in MC 48 has has duration 1/100 and starts on 121/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2294 in MC 48 has has duration 1/100 and starts on 61/50, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2295 in MC 48 has has duration 1/100 and starts on 123/100, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- Event 2296 in MC 48 has has duration 1/100 and starts on 31/25, surpassing the measure length of 1
+WARNING  Ravel_-_Jeux_dEau.ms3 -- MC 12 (1/4) and MC 13 (1) don't add up to 1.
+INFO     Ravel_-_Jeux_dEau.ms3 -- MC 18 is longer 17/16 than its nominal duration 1.
+INFO     Ravel_-_Jeux_dEau.ms3 -- MC 37 is longer 3/2 than its nominal duration 1.
+INFO     Ravel_-_Jeux_dEau.ms3 -- MC 73 is longer 7/4 than its nominal duration 1.
+INFO     Ravel_-_Jeux_dEau.ms3 -- MC 74 is longer 15/8 than its nominal duration 1.
+WARNING  Ravel_-_Jeux_dEau.ms3 -- MC 75 (3/8) and MC 76 (1) don't add up to 1.
+INFO     Ravel_-_Jeux_dEau.ms3 -- Done parsing Ravel_-_Jeux_dEau.mscx
 
-The following chords could not be parsed:
-     mc  mn onset        label
-ix                            
-37   11  11   1/2  .bIIM43(+4)
-73   26  26     0      .bI.IM7
-102  36  36   3/4      .bIII.I
-126  45  45     0    .bV.vii%7
-184  60  60   5/8     .bVII64]
-186  60  60   7/8      .bVII64
-211  68  68   1/2      .bvii%7
-212  68  68   5/8      .bIII64
-213  68  68   3/4       .bvi%7
-214  68  68   7/8       .bII64
-218  69  69   3/8       .bvi%7
-222  69  69   7/8       .bvi%7
-235  78  78   3/8      .bVIIM7
-239  78  78   7/8      .bVIIM7
-243  79  79   3/8      .bVIIM7
-245  79  79   5/8       .bVIM7
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
