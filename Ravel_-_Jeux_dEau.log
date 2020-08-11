@@ -36,34 +36,3 @@ INFO     Ravel_-_Jeux_dEau.ms3 -- MC 74 is longer 15/8 than its nominal duration
 WARNING  Ravel_-_Jeux_dEau.ms3 -- MC 75 (3/8) and MC 76 (1) don't add up to 1.
 INFO     Ravel_-_Jeux_dEau.ms3 -- Done parsing Ravel_-_Jeux_dEau.mscx
 
-WARNING  Ravel_-_Jeux_dEau.expand_labels -- The following chords could not be parsed:
-     mc  mn onset        label
-ix                            
-37   11  11   1/2  .bIIM43(+4)
-73   26  26     0      .bI.IM7
-102  36  36   3/4      .bIII.I
-126  45  45     0    .bV.vii%7
-184  60  60   5/8     .bVII64]
-186  60  60   7/8      .bVII64
-211  68  68   1/2      .bvii%7
-212  68  68   5/8      .bIII64
-213  68  68   3/4       .bvi%7
-214  68  68   7/8       .bII64
-218  69  69   3/8       .bvi%7
-222  69  69   7/8       .bvi%7
-235  78  78   3/8      .bVIIM7
-239  78  78   7/8      .bVIIM7
-243  79  79   3/8      .bVIIM7
-245  79  79   5/8       .bVIM7
-ERROR    Ravel_-_Jeux_dEau -- Could not expand labels due to errors:
-Traceback (most recent call last):
-  File "scripts/parallel_parse.py", line 93, in parse
-    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
-    df = self.propagate_pedal(df, cols=cols)
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
-    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
-AssertionError: 2 organ points started, 1 ended:
-   mc pedal    mc pedalend
-0  60   III    61        ]
-1  61   III  <NA>      NaN
