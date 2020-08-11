@@ -64,3 +64,47 @@ WARNING  Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.ms3 -- MC 147 (1/2) and MC 
 WARNING  Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.ms3 -- MC 149 (5/8) and MC 150 (3/4) don't add up to 3/4.
 INFO     Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.ms3 -- Done parsing Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.mscx
 
+WARNING  Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.expand_labels -- The following chords could not be parsed:
+      mc   mn    onset            label
+50    24   24      1/2          .bVIIM7
+51    24   24      3/4       .bVII(+#4)
+56    26   26      1/2          .bVIIM7
+57    26   26      3/4       .bVII(+#4)
+58    27   27        0            .bVII
+59    27   27      1/4          .bVIIM7
+60    27   27      3/8       .bVII(+#4)
+61    28   28        0            .bVII
+62    28   28      1/4          .bVII64
+63    29   29        0            .bVII
+64    29   29      1/8          .bVIIM7
+65    29   29      3/8       .bVII(+#4)
+66    30   30        0          .bVII\\
+67    32   32        0         .bIV.I[I
+69    33   33      1/4          .bVII43
+73    36   36      1/2            .bvii
+75    37   37      1/4           .bVII7
+82    40   40      1/4            .bVII
+100   58   58     1/12      .bVI43(#2)]
+102   58   58  155/384          .bVII2]
+105   60   60  155/384          .bVII2]
+128   77   77        0       .bIV.I(+6)
+129   78   78        0       .bvii(+#6)
+131   81   81        0     .biii64(+#6)
+133   83   83        0        .bVII(+6)
+134   85   85        0     .bVII.V7(94)
+167  107  107     13/8    .bii.#viio6\\
+174  112  112        0  .bVII.I65(+#4)]
+ERROR    Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "scripts/parallel_parse.py", line 93, in parse
+    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
+AssertionError: 4 organ points started, 1 ended:
+    mc pedal    mc pedalend
+0   58     I    40        ]
+1   58     V  <NA>      NaN
+2   60     V  <NA>      NaN
+3  110     i  <NA>      NaN

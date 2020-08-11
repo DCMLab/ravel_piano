@@ -15,3 +15,24 @@ INFO     Ravel_-_Miroirs_IV._Alborada_del_gracioso.ms3 -- MC 228 is longer 7/8 t
 INFO     Ravel_-_Miroirs_IV._Alborada_del_gracioso.ms3 -- MC 229 is longer 7/8 than its nominal duration 3/4.
 INFO     Ravel_-_Miroirs_IV._Alborada_del_gracioso.ms3 -- Done parsing Ravel_-_Miroirs_IV._Alborada_del_gracioso.mscx
 
+WARNING  Ravel_-_Miroirs_IV._Alborada_del_gracioso.expand_labels -- The following chords could not be parsed:
+      mc   mn onset             label
+17    12   12     0       .bVI.ii7(9)
+28    22   22   5/8           .biii64
+34    24   24   5/8           .biii64
+63    36   36   3/4        .bI.V(6b2)
+123   62   62   5/8             .biii
+130   64   64   5/8             .biii
+241  166  166     0       .bII.I(+b6)
+262  175  175     0           .bvii%7
+264  177  177     0             .bvi7
+266  179  179     0              .bV7
+304  197  197   5/8              .bII
+310  199  199   5/8              .bII
+325  209  209     0  .bvii.V7(94)/bII
+344  220  220   1/2             .bVII
+349  221  221   1/2             .bVII
+353  222  222   1/4             .bVII
+357  223  223     0             .bVII
+361  223  223   1/2             .bVII
+366  228  228   1/8              .bVI
