@@ -1,0 +1,6 @@
+2020-11-06 16:11:47 WARNING  Ravel_-_Jeux_dEau:MeasureList -- bs4_measures.py (line 674) make_offset_col():
+	The incomplete MC 12 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{13: Fraction(1, 1)}
+2020-11-06 16:11:47 WARNING  Ravel_-_Jeux_dEau:MeasureList -- bs4_measures.py (line 674) make_offset_col():
+	The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration (expected: 5/8):
+	{76: Fraction(1, 1)}
