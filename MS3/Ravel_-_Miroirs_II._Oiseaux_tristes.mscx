@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.4.2</programVersion>
-  <programRevision>148e43f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -12,59 +12,124 @@
       <pagePrintableWidth>7.87401</pagePrintableWidth>
       <pageEvenLeftMargin>0.196851</pageEvenLeftMargin>
       <pageOddLeftMargin>0.196851</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.393701</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.393701</pageOddBottomMargin>
       <minSystemDistance>24</minSystemDistance>
       <maxSystemDistance>24</maxSystemDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashForce>0</lyricsDashForce>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
+      <lyricsOddFontSize>10</lyricsOddFontSize>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
+      <lyricsEvenFontSize>10</lyricsEvenFontSize>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <hideInstrumentNameIfOneInstrument>0</hideInstrumentNameIfOneInstrument>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
       <keySigNaturals>1</keySigNaturals>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFramePadding>0.5</defaultFramePadding>
       <defaultFrameWidth>0.2</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0.5</titleFramePadding>
       <titleFrameWidth>0.2</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0.5</subTitleFramePadding>
       <subTitleFrameWidth>0.2</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0.5</composerFramePadding>
       <composerFrameWidth>0.2</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0.5</lyricistFramePadding>
       <lyricistFrameWidth>0.2</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0.5</fingeringFramePadding>
       <fingeringFrameWidth>0.2</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
       <longInstrumentFontStyle>2</longInstrumentFontStyle>
       <longInstrumentFramePadding>0</longInstrumentFramePadding>
       <longInstrumentFrameWidth>0</longInstrumentFrameWidth>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
+      <expressionFontSize>10</expressionFontSize>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0.5</tempoFramePadding>
       <tempoFrameWidth>0.2</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
       <systemFramePadding>0.5</systemFramePadding>
       <systemFrameWidth>0.2</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffFontSize>12</staffFontSize>
       <staffFontStyle>2</staffFontStyle>
       <staffAlign>left,top</staffAlign>
@@ -72,12 +137,23 @@
       <staffFramePadding>0</staffFramePadding>
       <staffFrameWidth>0</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0.5</repeatRightFramePadding>
       <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.2</Spatium>
       </Style>
     <showInvisible>0</showInvisible>
@@ -85,12 +161,15 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/2749876/scores/5499618</metaTag>
@@ -123,7 +202,7 @@
         <distOffset>6.25</distOffset>
         </Staff>
       <trackName>Piano</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>PIANO</longName>
         <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
@@ -172,13 +251,18 @@
       <VBox>
         <height>24.0278</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <family>FreeSerif</family>
+          <size>24</size>
           <offset x="0" y="8.96111"/>
           <text><b><font size="19"></font><font face="Tw Cen MT"></font>M<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>o<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>s</b></text>
           </Text>
         <Text>
           <style>Subtitle</style>
+          <family>FreeSerif</family>
+          <size>14</size>
           <offset x="0" y="1.93333"/>
           <text><b><font size="18"></font><font face="Tw Cen MT Condensed"></font>M A U R I C E   R A V E L</b></text>
           </Text>
@@ -191,6 +275,7 @@
       <VBox>
         <height>9.86111</height>
         <topGap>0</topGap>
+        <boxAutoSize>0</boxAutoSize>
         </VBox>
       <Measure>
         <voice>
@@ -203,9 +288,9 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <offset x="-3.48062" y="-6"/>
-            <text><b></b><font size="16"></font>Très lent<font size="12"></font>    <font size="16"></font><sym>metNote8thUp</sym><font size="12"></font> = 60</text>
+            <text><b></b><font size="16"></font>Très lent<font size="12"></font> <font size="16"></font><sym>metNote8thUp</sym><font size="12"></font> = 60</text>
             </Tempo>
           <StaffText>
             <placement>below</placement>
@@ -299,7 +384,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 40</text>
@@ -309,11 +394,22 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
           <Chord>
             <durationType>32nd</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <up>down</up>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/6</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
@@ -325,16 +421,6 @@
               <next>
                 <location>
                   <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -365,7 +451,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 20</text>
@@ -386,7 +472,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 35</text>
@@ -437,7 +523,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 40</text>
@@ -449,6 +535,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -495,7 +582,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 20</text>
@@ -516,7 +603,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 35</text>
@@ -672,7 +759,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 40</text>
@@ -755,7 +842,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 40</text>
@@ -948,7 +1035,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 35</text>
@@ -1086,7 +1173,7 @@
                 </next>
               </Spanner>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <offset x="0.658281" y="-0.5"/>
               </Articulation>
             <Note>
@@ -1134,7 +1221,7 @@
                 </next>
               </Spanner>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <offset x="0.658281" y="-0.5"/>
               </Articulation>
             <Note>
@@ -1171,7 +1258,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.95</tempo>
+            <tempo>0.94999999999999996</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1222,7 +1309,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.9</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1232,7 +1319,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.85</tempo>
+            <tempo>0.84999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1242,7 +1329,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.8</tempo>
+            <tempo>0.80000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1266,7 +1353,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.7</tempo>
+            <tempo>0.69999999999999996</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1276,7 +1363,7 @@
             <fractions>1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.55</tempo>
+            <tempo>0.55000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.0273078" y="-6.11111"/>
@@ -1372,7 +1459,7 @@
             <fractions>-1/24</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-7"/>
@@ -1403,7 +1490,7 @@
             <fractions>-1/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-7"/>
@@ -1413,7 +1500,7 @@
             <fractions>1/4</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-7"/>
@@ -1470,6 +1557,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1555,6 +1643,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1649,6 +1738,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1743,6 +1833,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1843,6 +1934,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -1851,7 +1943,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-7"/>
@@ -1928,7 +2020,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -1968,6 +2060,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1975,7 +2068,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-7"/>
@@ -2040,7 +2133,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2063,6 +2156,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2143,6 +2237,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -2231,6 +2326,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2311,6 +2407,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2396,7 +2493,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2431,7 +2528,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2446,6 +2543,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -2531,6 +2629,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2608,7 +2707,7 @@
             <offset x="0.658281" y="5"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.225</tempo>
+            <tempo>0.22500000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 13.5</text>
@@ -2633,7 +2732,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>150</ontime>
                   <len>850</len>
                   </Event>
@@ -2644,7 +2742,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>225</ontime>
                   <len>775</len>
                   </Event>
@@ -2658,7 +2755,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>300</ontime>
                   <len>700</len>
                   </Event>
@@ -2669,7 +2765,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>450</ontime>
                   <len>550</len>
                   </Event>
@@ -2682,7 +2777,7 @@
             <fractions>-1/24</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2707,9 +2802,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
-                  <ontime>0</ontime>
-                  <len>1000</len>
                   </Event>
                 </Events>
               <pitch>75</pitch>
@@ -2720,7 +2812,7 @@
             <fractions>-1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2770,7 +2862,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -2785,6 +2877,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2874,6 +2967,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -2950,6 +3044,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3026,6 +3121,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3125,6 +3221,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3227,6 +3324,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3256,7 +3354,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -3299,6 +3397,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3373,6 +3472,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3465,6 +3565,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3571,6 +3672,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3657,7 +3759,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.708333</tempo>
+            <tempo>0.70833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -3670,6 +3772,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3757,6 +3860,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3856,6 +3960,7 @@
             <fractions>907/1920</fractions>
             </location>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -3869,6 +3974,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -3880,7 +3986,7 @@
             <fractions>-1/60</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -4040,7 +4146,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-10.4722"/>
@@ -4086,6 +4192,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -4097,6 +4204,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             </Tuplet>
@@ -4174,6 +4282,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             </Tuplet>
@@ -4279,6 +4388,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -4456,6 +4566,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -4487,6 +4598,7 @@
             </Chord>
           <endTuplet/>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -4498,6 +4610,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -4509,6 +4622,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             </Tuplet>
@@ -4592,6 +4706,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             </Tuplet>
@@ -4686,6 +4801,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -4710,7 +4826,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-2.9722"/>
@@ -4730,7 +4846,7 @@
             <fractions>1/24</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-3.81266" y="-2.9722"/>
@@ -4749,7 +4865,7 @@
             <text><sym>dynamicMezzo</sym><sym>dynamicForte</sym> pressez</text>
             </Dynamic>
           <Tempo>
-            <tempo>3.33333</tempo>
+            <tempo>3.3333300000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -4828,7 +4944,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -4841,6 +4957,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -4927,7 +5044,7 @@
             <durationType>16th</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -4941,7 +5058,7 @@
             <fractions>-1/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-6"/>
@@ -4951,7 +5068,7 @@
             <fractions>1/24</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-6"/>
@@ -4961,7 +5078,7 @@
             <fractions>1/48</fractions>
             </location>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -5005,6 +5122,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -5161,7 +5279,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.916667</tempo>
+            <tempo>0.91666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -5230,6 +5348,7 @@
             </Chord>
           <endTuplet/>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -5243,6 +5362,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -5472,7 +5592,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>1.08333</tempo>
+            <tempo>1.0833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -5506,6 +5626,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -5760,7 +5881,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>0.916667</tempo>
+            <tempo>0.91666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -5773,6 +5894,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -5922,7 +6044,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.08333</tempo>
+            <tempo>1.0833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -5995,6 +6117,7 @@
             </Chord>
           <endTuplet/>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -6011,6 +6134,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6148,7 +6272,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.916667</tempo>
+            <tempo>0.91666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -6245,6 +6369,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6316,7 +6441,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.08333</tempo>
+            <tempo>1.0833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -6481,6 +6606,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6541,7 +6667,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.916667</tempo>
+            <tempo>0.91666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="-0.1" y="-8"/>
@@ -6721,6 +6847,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6870,7 +6997,7 @@
             <text>revenez</text>
             </StaffText>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -6883,6 +7010,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -6897,6 +7025,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -6965,6 +7094,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7046,6 +7176,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -7060,6 +7191,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7132,6 +7264,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7202,6 +7335,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -7210,7 +7344,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7223,6 +7357,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7285,7 +7420,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7298,6 +7433,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7344,7 +7480,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.166667</tempo>
+            <tempo>0.16666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7401,6 +7537,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7415,6 +7552,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7444,6 +7582,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7478,6 +7617,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7492,6 +7632,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7521,6 +7662,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7551,6 +7693,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7565,6 +7708,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7594,6 +7738,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7626,23 +7771,12 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
             <text><sym>metNoteQuarterUp</sym> = 25</text>
             </Tempo>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -7661,6 +7795,17 @@
                 </location>
               </next>
             </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Tuplet>
             <visible>0</visible>
             <normalNotes>2</normalNotes>
@@ -7668,6 +7813,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7687,7 +7833,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7734,6 +7880,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7752,7 +7899,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7812,7 +7959,7 @@
             <fractions>1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7855,7 +8002,7 @@
             <fractions>-5/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7875,7 +8022,7 @@
             <fractions>1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7895,7 +8042,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -7920,6 +8067,7 @@
             </Clef>
           <BarLine>
             <subtype>double</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         <voice>
@@ -7930,6 +8078,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -7983,6 +8132,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8035,6 +8185,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8094,6 +8245,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8150,6 +8302,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8273,7 +8426,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8283,6 +8436,7 @@
             <fractions>1/6</fractions>
             </location>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -8307,6 +8461,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8363,6 +8518,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8436,7 +8592,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8461,6 +8617,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8526,6 +8683,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8579,7 +8737,7 @@
             <offset x="-1.56263" y="-2.78778"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.458333</tempo>
+            <tempo>0.45833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8633,7 +8791,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.541667</tempo>
+            <tempo>0.54166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8643,7 +8801,7 @@
             <fractions>1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8690,7 +8848,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.541667</tempo>
+            <tempo>0.54166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -8713,6 +8871,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8784,6 +8943,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8865,6 +9025,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -8946,6 +9107,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9036,6 +9198,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9043,7 +9206,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-11"/>
@@ -9106,7 +9269,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-10"/>
@@ -9121,7 +9284,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -9168,6 +9331,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9249,6 +9413,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9304,6 +9469,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9335,7 +9501,7 @@
       <Measure len="2/4">
         <voice>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -9364,7 +9530,7 @@
             <fractions>-1/6</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -9380,6 +9546,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9388,7 +9555,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-11"/>
@@ -9452,7 +9619,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.291667</tempo>
+            <tempo>0.29166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-10"/>
@@ -9475,6 +9642,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9552,6 +9720,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9629,7 +9798,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -9664,7 +9833,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-10"/>
@@ -9674,7 +9843,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -9702,7 +9871,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>75</ontime>
                   <len>425</len>
                   </Event>
@@ -9759,6 +9927,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -9842,6 +10011,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -9896,6 +10066,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -9980,7 +10151,7 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-10"/>
@@ -10011,7 +10182,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>400</ontime>
                   <len>600</len>
                   </Event>
@@ -10049,7 +10219,7 @@
             <fractions>-1/3</fractions>
             </location>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10059,7 +10229,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10079,7 +10249,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.166667</tempo>
+            <tempo>0.16666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10100,7 +10270,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>60</ontime>
                   <len>890</len>
                   </Event>
@@ -10114,7 +10283,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>60</ontime>
                   <len>890</len>
                   </Event>
@@ -10131,7 +10299,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>0.166667</tempo>
+            <tempo>0.16666700000000001</tempo>
             <offset x="0" y="-6"/>
             <text><b></b><font size="16"></font>Lent.</text>
             </Tempo>
@@ -10151,6 +10319,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10158,7 +10327,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10171,6 +10340,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10234,7 +10404,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10247,6 +10417,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10259,7 +10430,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-10"/>
@@ -10287,7 +10458,7 @@
           <endTuplet/>
           <endTuplet/>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-8"/>
@@ -10300,6 +10471,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10310,6 +10482,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10349,6 +10522,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10410,6 +10584,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10450,6 +10625,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10460,6 +10636,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10493,7 +10670,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.138889" y="-8"/>
@@ -10506,6 +10683,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10546,6 +10724,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10587,6 +10766,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10597,6 +10777,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10644,6 +10825,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10683,6 +10865,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10757,6 +10940,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10767,6 +10951,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10803,6 +10988,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10839,6 +11025,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10870,6 +11057,7 @@
           <endTuplet/>
           <endTuplet/>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -10881,6 +11069,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10912,6 +11101,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10947,6 +11137,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -10983,6 +11174,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11019,6 +11211,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11056,7 +11249,7 @@
           </LayoutBreak>
         <voice>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.138889" y="-8"/>
@@ -11087,6 +11280,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11097,6 +11291,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11139,6 +11334,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11178,6 +11374,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11229,6 +11426,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11239,6 +11437,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11274,6 +11473,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11310,6 +11510,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11341,7 +11542,7 @@
           <endTuplet/>
           <endTuplet/>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.138889" y="-8"/>
@@ -11354,6 +11555,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11364,6 +11566,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11400,6 +11603,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11436,6 +11640,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11481,6 +11686,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11491,6 +11697,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11526,7 +11733,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.833333</tempo>
+            <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -11540,6 +11747,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11553,7 +11761,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -11592,6 +11800,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11605,7 +11814,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -11656,7 +11865,7 @@
             <text>pressez legèrement</text>
             </StaffText>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -11670,6 +11879,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11733,7 +11943,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -11795,6 +12005,7 @@
             </Chord>
           <endTuplet/>
           <BarLine>
+            <span>1</span>
             <visible>0</visible>
             </BarLine>
           </voice>
@@ -11806,6 +12017,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11859,6 +12071,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11918,6 +12131,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -11978,6 +12192,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12040,6 +12255,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12102,7 +12318,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.666667</tempo>
+            <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12191,6 +12407,7 @@
             <baseNote>32nd</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             </Tuplet>
@@ -12240,7 +12457,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.791667</tempo>
+            <tempo>0.79166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12288,7 +12505,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.791667</tempo>
+            <tempo>0.79166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12302,6 +12519,7 @@
             <baseNote>32nd</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             </Tuplet>
@@ -12445,7 +12663,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.08333</tempo>
+            <tempo>1.0833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12478,7 +12696,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.16667</tempo>
+            <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12541,6 +12759,7 @@
             <actualNotes>9</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>9</text>
               </Number>
             </Tuplet>
@@ -12606,7 +12825,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>1.08333</tempo>
+            <tempo>1.0833299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12643,7 +12862,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.916667</tempo>
+            <tempo>0.91666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12678,7 +12897,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -12740,7 +12959,7 @@
             <offset x="0.533281" y="6"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 25</text>
@@ -12762,7 +12981,7 @@
             <fractions>1/16</fractions>
             </location>
           <Tempo>
-            <tempo>0.541667</tempo>
+            <tempo>0.54166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 32.5</text>
@@ -12783,6 +13002,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12808,7 +13028,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -12857,7 +13077,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -12905,7 +13125,7 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -12944,7 +13164,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.541667</tempo>
+            <tempo>0.54166700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 32.5</text>
@@ -12965,6 +13185,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -12990,7 +13211,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -13039,7 +13260,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -13087,7 +13308,7 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -13123,7 +13344,7 @@
             <offset x="0.533281" y="6"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 25</text>
@@ -13144,7 +13365,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0" y="-6"/>
@@ -13320,7 +13541,7 @@
             <durationType>half</durationType>
             </Rest>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13334,6 +13555,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13363,7 +13585,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.4</tempo>
+            <tempo>0.40000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13392,6 +13614,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13424,7 +13647,7 @@
             <fractions>-1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.383333</tempo>
+            <tempo>0.38333299999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13481,6 +13704,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -13526,6 +13750,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -13587,7 +13812,7 @@
             <offset x="-0.85" y="11.2"/>
             </Dynamic>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13602,7 +13827,7 @@
             <fractions>-3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.583333</tempo>
+            <tempo>0.58333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13613,7 +13838,7 @@
             <fractions>3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13628,6 +13853,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13657,7 +13883,7 @@
               </Note>
             </Chord>
           <Tempo>
-            <tempo>0.383333</tempo>
+            <tempo>0.38333299999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13687,6 +13913,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13719,7 +13946,7 @@
             <fractions>-1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.35</tempo>
+            <tempo>0.34999999999999998</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13795,6 +14022,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -13840,6 +14068,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -13926,7 +14155,7 @@
       <Measure>
         <voice>
           <Tempo>
-            <tempo>0.416667</tempo>
+            <tempo>0.41666700000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13952,7 +14181,7 @@
             <fractions>3/8</fractions>
             </location>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -13967,6 +14196,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14010,7 +14240,7 @@
             <fractions>1/12</fractions>
             </location>
           <Tempo>
-            <tempo>0.2</tempo>
+            <tempo>0.20000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -14042,7 +14272,7 @@
             </Chord>
           <endTuplet/>
           <Tempo>
-            <tempo>0.333333</tempo>
+            <tempo>0.33333299999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
             <placement>below</placement>
@@ -14057,6 +14287,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14115,6 +14346,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -14169,6 +14401,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -14244,6 +14477,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
@@ -14374,6 +14608,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14415,6 +14650,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14463,6 +14699,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14511,6 +14748,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14562,6 +14800,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14636,6 +14875,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14690,6 +14930,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14739,6 +14980,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14778,6 +15020,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14825,6 +15068,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14904,6 +15148,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -14967,6 +15212,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15495,9 +15741,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
-                  <ontime>0</ontime>
-                  <len>1000</len>
                   </Event>
                 </Events>
               <pitch>42</pitch>
@@ -15506,7 +15749,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>10</ontime>
                   <len>990</len>
                   </Event>
@@ -15549,6 +15791,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15576,9 +15819,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
-                  <ontime>0</ontime>
-                  <len>1000</len>
                   </Event>
                 </Events>
               <pitch>30</pitch>
@@ -15587,7 +15827,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>150</ontime>
                   <len>850</len>
                   </Event>
@@ -15621,6 +15860,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15659,6 +15899,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15695,6 +15936,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15853,6 +16095,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15885,6 +16128,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15926,6 +16170,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15967,6 +16212,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16051,6 +16297,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -16062,6 +16309,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16125,6 +16373,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16165,6 +16414,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -16200,6 +16450,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16270,6 +16521,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16314,6 +16566,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16385,6 +16638,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -16396,6 +16650,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16461,6 +16716,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16498,6 +16754,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -16530,6 +16787,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16591,6 +16849,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16623,6 +16882,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16698,6 +16958,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -16709,6 +16970,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16769,6 +17031,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16806,6 +17069,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -16838,6 +17102,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16902,6 +17167,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16947,6 +17213,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -16983,6 +17250,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -16994,6 +17262,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17054,6 +17323,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17091,6 +17361,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -17123,6 +17394,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17184,6 +17456,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17216,6 +17489,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17271,6 +17545,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17372,6 +17647,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17527,6 +17803,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17592,6 +17869,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17636,6 +17914,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17763,6 +18042,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -17824,6 +18104,7 @@
             <baseNote>quarter</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18026,6 +18307,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -18085,6 +18367,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18184,6 +18467,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>up</direction>
@@ -18246,6 +18530,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18307,8 +18592,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
-                  <ontime>0</ontime>
                   <len>950</len>
                   </Event>
                 </Events>
@@ -18321,7 +18604,6 @@
                 </Accidental>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>60</ontime>
                   <len>890</len>
                   </Event>
@@ -18332,7 +18614,6 @@
             <Note>
               <Events>
                 <Event>
-                  <pitch>0</pitch>
                   <ontime>60</ontime>
                   <len>890</len>
                   </Event>
@@ -18529,6 +18810,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18582,6 +18864,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18617,6 +18900,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18653,6 +18937,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18696,6 +18981,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -18741,6 +19027,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18834,6 +19121,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <direction>down</direction>
@@ -18883,6 +19171,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -18969,6 +19258,7 @@
             <baseNote>16th</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>4</text>
               </Number>
             </Tuplet>
@@ -19041,6 +19331,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>2</text>
               </Number>
             </Tuplet>
@@ -19697,6 +19988,7 @@
             <baseNote>eighth</baseNote>
             <Number>
               <visible>0</visible>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -20302,6 +20594,24 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Spanner type="Pedal">
+            <Pedal>
+              <endHookType>1</endHookType>
+              <beginHookType>1</beginHookType>
+              <visible>0</visible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                <visible>0</visible>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>3/8</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>3</subtype>
@@ -20318,24 +20628,6 @@
               <location>
                 <measures>1</measures>
                 <fractions>-1/8</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginHookType>1</beginHookType>
-              <visible>0</visible>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                <visible>0</visible>
-                </Segment>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>3/8</fractions>
                 </location>
               </next>
             </Spanner>
@@ -20571,7 +20863,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articTenutoBelow</subtype>
+              <subtype>articTenutoAbove</subtype>
               <visible>0</visible>
               </Articulation>
             <Stem>
