@@ -1,0 +1,79 @@
+Warnings encountered during the last execution of ms3 review (v1.2.6)
+=====================================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 13) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 13 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{14: Fraction(5, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 25 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2):
+	{26: Fraction(5, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 45 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{46: Fraction(3, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 48) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 48 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{49: Fraction(3, 8)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 50) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 50 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{51: Fraction(3, 4)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 52) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 52 (timesig 5/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 3/4):
+	{53: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 104) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 104 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{105: Fraction(3, 4)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 106) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 106 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{107: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 147) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 147 (timesig 3/4, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/4):
+	{148: Fraction(1, 2)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 149) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 149 (timesig 3/4, act_dur 5/8) is completed by 1 incorrect duration (expected: 1/8):
+	{150: Fraction(3, 4)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 204) check_measure_numbers():
+	MCs 6, 14, 18, 26, 35, 43, 46, 49, 51, 79, 84, 102, 105, 148 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	      mc   mn act_dur mc_offset  dont_count  numbering_offset
+	4      5    5     1/4         0        <NA>              <NA>
+	5      6    6     1/4       1/4        <NA>              <NA>
+	6      7    7     1/2         0        <NA>              <NA>
+	12    13   13     1/4         0        <NA>              <NA>
+	13    14   14     5/8       1/8        <NA>              <NA>
+	14    15   15     1/2         0        <NA>              <NA>
+	16    17   17     1/4         0        <NA>              <NA>
+	17    18   18     1/4       1/4        <NA>              <NA>
+	18    19   19     1/2         0        <NA>              <NA>
+	24    25   25     1/4         0        <NA>              <NA>
+	25    26   26     5/8       1/8        <NA>              <NA>
+	26    27   27     1/2         0        <NA>              <NA>
+	33    34   34     1/4         0        <NA>              <NA>
+	34    35   35     1/2       1/4        <NA>              <NA>
+	35    36   36     3/4         0        <NA>              <NA>
+	41    42   42     1/2         0        <NA>              <NA>
+	42    43   43     1/4       1/2        <NA>              <NA>
+	43    44   44     3/4         0        <NA>              <NA>
+	44    45   45     3/4         0        <NA>              <NA>
+	45    46   46     3/8       5/8        <NA>              <NA>
+	46    47   47     3/4         0        <NA>              <NA>
+	47    48   48     3/4         0        <NA>              <NA>
+	48    49   49     3/8       5/8        <NA>              <NA>
+	49    50   50     3/4         0        <NA>              <NA>
+	50    51   51     3/4       1/2        <NA>              <NA>
+	51    52   52     1/2         0        <NA>              <NA>
+	77    78   78     3/4         0        <NA>              <NA>
+	78    79   79     1/4       3/4        <NA>              <NA>
+	79    80   80     3/4         0        <NA>              <NA>
+	82    83   83     3/4         0        <NA>              <NA>
+	83    84   84     1/2       3/4        <NA>              <NA>
+	84    85   85     1/2         0        <NA>              <NA>
+	100  101  101     1/2         0        <NA>              <NA>
+	101  102  102     1/2       1/2        <NA>              <NA>
+	102  103  103       1         0        <NA>              <NA>
+	103  104  104     3/4         0        <NA>              <NA>
+	104  105  105     3/4       1/4        <NA>              <NA>
+	105  106  106     3/4         0        <NA>              <NA>
+	146  147  147     1/2         0        <NA>              <NA>
+	147  148  148     1/2       1/4        <NA>              <NA>
+	148  149  149     5/8         0        <NA>              <NA>
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 142, 'V7(6b5)') ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4341) features2tpcs():
+	MC 142: V7(6b5) results in a chord tone 5th AND its replacement(s) (TPC [-3]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.

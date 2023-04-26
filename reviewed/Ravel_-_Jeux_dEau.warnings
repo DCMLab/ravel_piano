@@ -1,0 +1,9 @@
+Warnings encountered during the last execution of ms3 review (v1.2.6)
+=====================================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 12) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 12 (timesig 1, act_dur 1/4) is completed by 1 incorrect duration (expected: 3/4):
+	{13: Fraction(1, 1)}
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 75) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration (expected: 5/8):
+	{76: Fraction(1, 1)}
