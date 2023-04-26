@@ -150,7 +150,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.2</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -158,7 +157,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_end">1901</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -260,29 +259,22 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <offset x="0" y="-17.3436"/>
-          <text><b><font face="Times New Roman"></font>Maurice Ravel</b></text>
+          <text>Maurice Ravel</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <family>FreeSerif</family>
           <size>14</size>
-          <offset x="0" y="-3.66138"/>
+          <offset x="0" y="9.76754"/>
           <text><b><font size="10"></font><font face="Times New Roman"></font>à mon cher Maître Gabriel Fauré</b></text>
           </Text>
         <Text>
           <style>Frame</style>
           <family>FreeSerif</family>
           <size>12</size>
-          <offset x="0.694567" y="-2.86636"/>
-          <text><i><font size="11"></font><font face="Times New Roman"></font>Dieu fluvial riant de l'eau qui le chatouille.</i></text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <size>12</size>
-          <offset x="0.508691" y="1.15197"/>
-          <text><i><font size="7"></font>Henri de Régnier</i></text>
+          <offset x="1.53387" y="21.6414"/>
+          <text><i><font size="11"/><font face="Times New Roman"/>Dieu fluvial riant de l'eau qui le chatouille.
+<font size="8"/>Henri de Régnier</i></text>
           </Text>
         </VBox>
       <VBox>
@@ -9191,22 +9183,6 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <veloChange>7</veloChange>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.16667"/>
-                <off2 x="-6.38889" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -9219,6 +9195,22 @@
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
+            <next>
+              <location>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <veloChange>7</veloChange>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.16667"/>
+                <off2 x="-6.38889" y="0"/>
+                </Segment>
+              </HairPin>
             <next>
               <location>
                 <fractions>1/4</fractions>
@@ -9331,14 +9323,14 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
+          <Spanner type="Pedal">
             <prev>
               <location>
                 <fractions>-1/4</fractions>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Pedal">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <fractions>-1/4</fractions>
@@ -19697,6 +19689,22 @@
               <tpc>26</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.1389"/>
+                <off2 x="-7.77778" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
@@ -19707,22 +19715,6 @@
                 <off2 x="0.694444" y="-1.38889"/>
                 </Segment>
               </Ottava>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/2</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.1389"/>
-                <off2 x="-7.77778" y="0"/>
-                </Segment>
-              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
@@ -20061,7 +20053,7 @@
             <velocity>60</velocity>
             <offset x="-1.67086" y="7"/>
             </Dynamic>
-          <Spanner type="Ottava">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -20069,7 +20061,7 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
+          <Spanner type="Ottava">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -21190,21 +21182,6 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="9.8889"/>
-                <off2 x="-3.33333" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -21217,6 +21194,21 @@
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="9.8889"/>
+                <off2 x="-3.33333" y="0"/>
+                </Segment>
+              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
@@ -21606,14 +21598,14 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Spanner type="HairPin">
+          <Spanner type="Pedal">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Pedal">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -25924,22 +25916,6 @@
             <visible>0</visible>
             <offset x="-1.34172" y="4"/>
             </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-5.97222"/>
-                <off2 x="-1.25" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -25952,6 +25928,22 @@
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
+            <next>
+              <location>
+                <fractions>1/1</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-5.97222"/>
+                <off2 x="-1.25" y="0"/>
+                </Segment>
+              </HairPin>
             <next>
               <location>
                 <fractions>1/1</fractions>
@@ -26449,14 +26441,14 @@
             <placement>above</placement>
             <offset x="0.658281" y="-5"/>
             </Dynamic>
-          <Spanner type="HairPin">
+          <Spanner type="Pedal">
             <prev>
               <location>
                 <fractions>-1/1</fractions>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Pedal">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <fractions>-1/1</fractions>
@@ -36250,6 +36242,23 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <dynType>0</dynType>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.5556"/>
+                <off2 x="-6.25" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-3/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Spanner type="Pedal">
             <Pedal>
               <endHookType>1</endHookType>
@@ -36262,23 +36271,6 @@
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-3/4</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <dynType>0</dynType>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.5556"/>
-                <off2 x="-6.25" y="0"/>
-                </Segment>
-              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
@@ -36340,7 +36332,7 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -36348,7 +36340,7 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
+          <Spanner type="Pedal">
             <prev>
               <location>
                 <measures>-1</measures>

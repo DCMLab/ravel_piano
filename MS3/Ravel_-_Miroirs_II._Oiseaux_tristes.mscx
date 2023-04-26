@@ -162,20 +162,20 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
-    <metaTag name="composed_start">1901</metaTag>
+    <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Oiseaux tristes</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/2749876/scores/5499618</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Jeux d'eau</metaTag>
+    <metaTag name="workTitle">Miroirs</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -254,22 +254,16 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0" y="8.96111"/>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>M<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>o<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>s</b></text>
+          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0" y="1.93333"/>
-          <text><b><font size="18"></font><font face="Tw Cen MT Condensed"></font>M A U R I C E   R A V E L</b></text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <offset x="0" y="16.9333"/>
+          <offset x="0" y="13.2403"/>
           <text>2. Oiseaux tristes</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Maurice Ravel</text>
           </Text>
         </VBox>
       <VBox>
