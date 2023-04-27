@@ -150,7 +150,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.2</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -159,21 +158,21 @@
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
-    <metaTag name="composed_start">1901</metaTag>
+    <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Une Barque sur l'océan</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/score/4829477</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Jeux d'eau</metaTag>
+    <metaTag name="workTitle">Miroirs</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -253,22 +252,16 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0" y="0.257858"/>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>M<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>o<font size="12"></font><font size="19"></font>i<font size="12"></font><font size="19"></font>r<font size="12"></font><font size="19"></font>s</b></text>
+          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="-0.158241" y="-5.02927"/>
-          <text><b><font size="18"></font><font face="Tw Cen MT Condensed"></font>M A U R I C E   R A V E L</b></text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <offset x="0" y="6.17292"/>
+          <offset x="-0.503584" y="13.2231"/>
           <text>3. Une Barque sur l'océan</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Maurice Ravel</text>
           </Text>
         </VBox>
       <Measure>
@@ -4592,9 +4585,6 @@
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -33461,6 +33451,9 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <offset x="0" y="4.16667"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -33470,9 +33463,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="4.16667"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -33904,6 +33894,22 @@
             <placement>above</placement>
             <offset x="-1.07086" y="-3.4"/>
             </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4.33333"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>2</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -33916,7 +33922,7 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-1079/2880</fractions>
+                    <fractions>-1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -33931,7 +33937,7 @@
                 <next>
                   <location>
                     <measures>1</measures>
-                    <fractions>-1079/2880</fractions>
+                    <fractions>-1/2</fractions>
                     </location>
                   </next>
                 </Spanner>
@@ -33966,7 +33972,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>1079/2880</fractions>
+                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -33978,7 +33984,7 @@
                 <prev>
                   <location>
                     <measures>-1</measures>
-                    <fractions>1079/2880</fractions>
+                    <fractions>1/2</fractions>
                     </location>
                   </prev>
                 </Spanner>
@@ -63457,6 +63463,32 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <endHookType>1</endHookType>
+              <beginHookType>1</beginHookType>
+              <visible>0</visible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                <visible>0</visible>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <measures>2</measures>
+                <fractions>-1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
