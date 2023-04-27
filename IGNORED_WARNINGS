@@ -1,0 +1,3 @@
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 75) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau
+	The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration
+    But that's OK because m. 72 is a cadenza-like measure that spans MC 72-75 (incl.).
