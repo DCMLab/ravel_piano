@@ -7,11 +7,11 @@ Three files have been annotated as an experiment of how far application of the h
 # Overview
 |                 file_name                 |measures|labels|standard| annotators |
 |-------------------------------------------|-------:|-----:|--------|------------|
-|Ravel_-_Jeux_dEau                          |      88|   257|2.1.0   |Adrian Nagel|
+|Ravel_-_Jeux_dEau                          |      85|   257|2.1.0   |Adrian Nagel|
 |Ravel_-_Miroirs_I._Noctuelles              |     132|     0|        |            |
 |Ravel_-_Miroirs_II._Oiseaux_tristes        |      40|     0|        |            |
 |Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean|     151|   239|2.1.0   |Adrian Nagel|
 |Ravel_-_Miroirs_IV._Alborada_del_gracioso  |     229|   368|2.1.0   |Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.6.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.7.*
