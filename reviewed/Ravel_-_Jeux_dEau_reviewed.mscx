@@ -150,7 +150,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.2</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -158,16 +157,18 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_end">1901</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Jeux_d%27eau_(Ravel,_Maurice)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3175</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
@@ -260,29 +261,22 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <offset x="0" y="-17.3436"/>
-          <text><b><font face="Times New Roman"></font>Maurice Ravel</b></text>
+          <text>Maurice Ravel</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <family>FreeSerif</family>
           <size>14</size>
-          <offset x="0" y="-3.66138"/>
+          <offset x="0" y="9.76754"/>
           <text><b><font size="10"></font><font face="Times New Roman"></font>à mon cher Maître Gabriel Fauré</b></text>
           </Text>
         <Text>
           <style>Frame</style>
           <family>FreeSerif</family>
           <size>12</size>
-          <offset x="0.694567" y="-2.86636"/>
-          <text><i><font size="11"></font><font face="Times New Roman"></font>Dieu fluvial riant de l'eau qui le chatouille.</i></text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <size>12</size>
-          <offset x="0.508691" y="1.15197"/>
-          <text><i><font size="7"></font>Henri de Régnier</i></text>
+          <offset x="1.53387" y="21.6414"/>
+          <text><i><font size="11"></font><font face="Times New Roman"></font>Dieu fluvial riant de l'eau qui le chatouille.
+<font size="8"></font>Henri de Régnier</i></text>
           </Text>
         </VBox>
       <VBox>
@@ -2603,10 +2597,10 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <TimeSig>
-            <sigN>4</sigN>
+            <sigN>1</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Spanner type="Ottava">
@@ -2624,9 +2618,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-2.28556"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -26181,9 +26172,13 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="7/4">
+        <irregular>1</irregular>
         <voice>
           <Dynamic>
             <subtype>mp</subtype>
@@ -27128,9 +27123,13 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="15/8">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -27997,9 +27996,13 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
+        <irregular>1</irregular>
         <voice>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -35239,10 +35242,10 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <TimeSig>
-            <sigN>4</sigN>
+            <sigN>1</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Spanner type="Pedal">
@@ -50910,6 +50913,9 @@
             <visible>0</visible>
             <durationType>half</durationType>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="7/4">
@@ -50926,6 +50932,9 @@
             <durationType>measure</durationType>
             <duration>7/4</duration>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="15/8">
@@ -50935,6 +50944,9 @@
             <durationType>measure</durationType>
             <duration>15/8</duration>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -53614,10 +53626,10 @@
             </Harmony>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <TimeSig>
-            <sigN>4</sigN>
+            <sigN>1</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
@@ -53625,7 +53637,8 @@
             <name>i</name>
             </Harmony>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>measure</durationType>
+            <duration>1/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -55332,6 +55345,9 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           </voice>
         </Measure>
       <Measure len="7/4">
