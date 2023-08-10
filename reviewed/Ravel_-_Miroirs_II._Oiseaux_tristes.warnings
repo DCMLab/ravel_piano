@@ -1,0 +1,24 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes --
+	The incomplete MC 17 (timesig 1, act_dur 9/16) is completed by 1 incorrect duration (expected: 7/16):
+	{18: Fraction(1, 2)}
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 14, 16, 18, 20, 25, 28) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes --
+	MCs 14, 16, 18, 20, 25, 28 seem to be offset from the MN's beginning but have not been excluded from barcount. Context:
+	    mc  mn act_dur mc_offset  dont_count  numbering_offset
+	12  13  13     1/2         0        <NA>              <NA>
+	13  14  14     1/2       1/2        <NA>              <NA>
+	14  15  15     1/2         0        <NA>              <NA>
+	15  16  16     1/2       1/2        <NA>              <NA>
+	16  17  17    9/16         0        <NA>              <NA>
+	17  18  18     1/2       1/2        <NA>              <NA>
+	18  19  19     1/4         0        <NA>              <NA>
+	19  20  20     3/4       1/4        <NA>              <NA>
+	20  21  21       1         0        <NA>              <NA>
+	23  24  24     1/2         0        <NA>              <NA>
+	24  25  25     1/2       1/2        <NA>              <NA>
+	25  26  26       1         0        <NA>              <NA>
+	26  27  27     1/2         0        <NA>              <NA>
+	27  28  28     1/2       1/2        <NA>              <NA>
+	28  29  29       1         0        <NA>              <NA>
