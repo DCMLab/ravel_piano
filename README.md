@@ -4,7 +4,7 @@ Scores from musescore.com, transcribed by user PhilTA https://musescore.com/user
 
 Three files have been annotated as an experiment of how far application of the harmony standard goes.
 
-# Overview
+## Overview
 |                 file_name                 |measures|labels|standard| annotators |
 |-------------------------------------------|-------:|-----:|--------|------------|
 |Ravel_-_Jeux_dEau                          |      85|   257|2.1.0   |Adrian Nagel|
@@ -14,4 +14,4 @@ Three files have been annotated as an experiment of how far application of the h
 |Ravel_-_Miroirs_IV._Alborada_del_gracioso  |     229|   368|2.1.0   |Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.7.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
