@@ -1,3 +1,0 @@
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Ravel_-_Jeux_dEau.html" height="600" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean.html" height="600" width="100%"></iframe>
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="gantt/Ravel_-_Miroirs_IV._Alborada_del_gracioso.html" height="600" width="100%"></iframe>
