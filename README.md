@@ -14,4 +14,4 @@ Three files have been annotated as an experiment of how far application of the h
 |Ravel_-_Miroirs_IV._Alborada_del_gracioso  |     229|   368|2.1.0   |Adrian Nagel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
