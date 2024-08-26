@@ -260,12 +260,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
+          <text>3. Une Barque sur l'océan</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-0.503584" y="13.2231"/>
-          <text>3. Une Barque sur l'océan</text>
+          <text>from: Miroirs, M.43</text>
           </Text>
         <Text>
           <style>Composer</style>

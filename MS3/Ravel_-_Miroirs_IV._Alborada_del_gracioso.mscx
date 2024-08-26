@@ -265,12 +265,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
+          <text>4. Alborada del gracioso</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-0.0931446" y="13.5414"/>
-          <text>4. Alborada del gracioso</text>
+          <text>from: Miroirs, M.43</text>
           </Text>
         <Text>
           <style>Composer</style>

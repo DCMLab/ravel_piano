@@ -260,9 +260,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <offset x="0.18649" y="0.501492"/>
-          <text><b><font face="Times New Roman"></font>Jeux d'Eau</b></text>
+          <text>Jeux d'eau</text>
           </Text>
         <Text>
           <style>Composer</style>

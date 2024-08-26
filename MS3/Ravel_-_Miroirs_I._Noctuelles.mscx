@@ -256,12 +256,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
+          <text>1. Noctuelles</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="1.00717" y="12.401"/>
-          <text>1. Noctuelles</text>
+          <text>from: Miroirs, M.43</text>
           </Text>
         <Text>
           <style>Composer</style>
