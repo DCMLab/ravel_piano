@@ -155,9 +155,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1178</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1901</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Jeux_d%27eau_(Ravel)</metaTag>
     <metaTag name="composed_start">1901</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -168,12 +170,15 @@
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/512fddf1-7ae1-3b75-aeed-dc55792dd971</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/3175</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/179014537/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q1684076</metaTag>
+    <metaTag name="workNumber">M.30</metaTag>
     <metaTag name="workTitle">Jeux d'eau</metaTag>
     <Part>
       <Staff id="1">

@@ -155,23 +155,31 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1181</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Miroirs</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Miroirs%2C_M.43_(Ravel%2C_Maurice)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Une Barque sur l'océan</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/88888e07-c508-3e41-b401-62f0408c5173</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/918861</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">https://musescore.com/score/4829477</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/2749876</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185362313/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q770354</metaTag>
+    <metaTag name="workNumber">M.43</metaTag>
     <metaTag name="workTitle">Miroirs</metaTag>
     <Part>
       <Staff id="1">

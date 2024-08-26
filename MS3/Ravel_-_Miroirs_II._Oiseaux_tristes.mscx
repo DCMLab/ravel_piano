@@ -160,21 +160,29 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1180</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Miroirs</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Miroirs%2C_M.43_(Ravel%2C_Maurice)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Oiseaux tristes</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/1542bc44-fead-354a-b6a1-0f41e169d1a2</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/918861</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/2749876/scores/5499618</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/2749876</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185362313/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q770354</metaTag>
+    <metaTag name="workNumber">M.43</metaTag>
     <metaTag name="workTitle">Miroirs</metaTag>
     <Part>
       <Staff id="1">
