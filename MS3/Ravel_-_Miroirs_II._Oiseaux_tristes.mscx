@@ -5355,6 +5355,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Tuplet>
             <visible>0</visible>
@@ -6124,6 +6125,7 @@
           </voice>
         </Measure>
       <Measure len="3/4">
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
