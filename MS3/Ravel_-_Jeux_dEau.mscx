@@ -315,7 +315,7 @@
           <Tempo>
             <tempo>1.2</tempo>
             <followText>1</followText>
-            <text><b>(</b><font face="ScoreText"/><b><font face="Edwin"/> = 144) Trés doux</b></text>
+            <text><b>(</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 144) Trés doux</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>

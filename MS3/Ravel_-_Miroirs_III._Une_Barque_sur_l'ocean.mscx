@@ -278,6 +278,16 @@
             <subtype>pp</subtype>
             <velocity>60</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>0.83333333333333337</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.5333300000000001</tempo>
+            <text>D'un rythme souple </text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2278,6 +2288,7 @@
           </voice>
         </Measure>
       <Measure len="5/8">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -4201,6 +4212,7 @@
           </voice>
         </Measure>
       <Measure len="5/8">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -5145,6 +5157,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <prev>
@@ -7103,6 +7116,7 @@
           </voice>
         </Measure>
       <Measure len="1/4">
+        <irregular>1</irregular>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -7705,6 +7719,7 @@
           </voice>
         </Measure>
       <Measure len="3/8">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -8246,6 +8261,7 @@
           </voice>
         </Measure>
       <Measure len="3/8">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -8813,6 +8829,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="HairPin">
             <HairPin>
@@ -23239,6 +23256,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Spanner type="Ottava">
             <Ottava>
