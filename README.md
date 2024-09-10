@@ -14,6 +14,7 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Maurice Ravel – Piano Pieces (v2.1)
 
+These piano showpieces are emblematic of the initial flowering of Ravel's advanced style that occurred around the end of his troubled years at the Paris Conservatoire. Both Jeux d'eau and the suite Miroirs were products of Ravel's association with the avant-garde artists' collective Les Apaches, and each of the five pieces of Miroirs is dedicated to one or another of Ravel's colleagues in the group. The latter pieces are also well-known in orchestral versions, which have been scored by composers including (besides Ravel himself) Percy Grainger and Steven Stucky.
 
 ## Version history
 
@@ -29,7 +30,7 @@ Scores from musescore.com, transcribed by user PhilTA https://musescore.com/user
 
 5th movement of Miroirs (*La vallée des cloches*) currently missing.
 
-Three files have been annotated as an experiment of how far application of the harmony standard goes.
+The three annotated files in this repository were initial experiments in applying the DCML harmony standard to 20th-century chromatic repertoire, an effort which has since been fruitfully extended. The language in these pieces is an ideal case study for this effort as many passages are demarcated by repeated alternations between some tall tertian chromatic harmony and the tonic triad. The harmonies present are therefore linked explicitly to a tonal center in a palpable way. Relating such tall tertian harmonies to one another in the absence of an obvious tonic triad is the focus of research efforts that are still ongoing.
 
 ## Overview
 |                 file_name                 |measures|labels|standard| annotators |
