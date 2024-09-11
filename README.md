@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/ravel_piano/introduction).
 
-# Maurice Ravel – Piano Pieces (v2.1)
+# Maurice Ravel – Piano Pieces (v2.2)
 
 These piano showpieces are emblematic of the initial flowering of Ravel's advanced style that occurred around the end of his troubled years at the Paris Conservatoire. Both Jeux d'eau and the suite Miroirs were products of Ravel's association with the avant-garde artists' collective Les Apaches, and each of the five pieces of Miroirs is dedicated to one or another of Ravel's colleagues in the group. The latter pieces are also well-known in orchestral versions, which have been scored by composers including (besides Ravel himself) Percy Grainger and Steven Stucky.
 
