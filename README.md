@@ -12,8 +12,9 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/ravel_piano/introduction).
 
-# Maurice Ravel – Piano Pieces (v2.1)
+# Maurice Ravel – Piano Pieces (v2.2)
 
+These piano showpieces are emblematic of the initial flowering of Ravel's advanced style that occurred around the end of his troubled years at the Paris Conservatoire. Both Jeux d'eau and the suite Miroirs were products of Ravel's association with the avant-garde artists' collective Les Apaches, and each of the five pieces of Miroirs is dedicated to one or another of Ravel's colleagues in the group. The latter pieces are also well-known in orchestral versions, which have been scored by composers including (besides Ravel himself) Percy Grainger and Steven Stucky.
 
 ## Version history
 
@@ -29,15 +30,15 @@ Scores from musescore.com, transcribed by user PhilTA https://musescore.com/user
 
 5th movement of Miroirs (*La vallée des cloches*) currently missing.
 
-Three files have been annotated as an experiment of how far application of the harmony standard goes.
+The three annotated files in this repository were initial experiments in applying the DCML harmony standard to 20th-century chromatic repertoire, an effort which has since been fruitfully extended. The language in these pieces is an ideal case study for this effort as many passages are demarcated by repeated alternations between some tall tertian chromatic harmony and the tonic triad. The harmonies present are therefore linked explicitly to a tonal center in a palpable way. Relating such tall tertian harmonies to one another in the absence of an obvious tonic triad is the focus of research efforts that are still ongoing.
 
 ## Overview
 |                 file_name                 |measures|labels|standard| annotators |
 |-------------------------------------------|-------:|-----:|--------|------------|
 |Ravel_-_Jeux_dEau                          |      85|   257|2.1.0   |Adrian Nagel|
 |Ravel_-_Miroirs_I._Noctuelles              |     132|     0|        |            |
-|Ravel_-_Miroirs_II._Oiseaux_tristes        |      40|     0|        |            |
-|Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean|     151|   239|2.1.0   |Adrian Nagel|
+|Ravel_-_Miroirs_II._Oiseaux_tristes        |      32|     0|        |            |
+|Ravel_-_Miroirs_III._Une_Barque_sur_l'ocean|     143|   237|2.1.0   |Adrian Nagel|
 |Ravel_-_Miroirs_IV._Alborada_del_gracioso  |     229|   368|2.1.0   |Adrian Nagel|
 
 

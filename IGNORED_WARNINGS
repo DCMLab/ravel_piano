@@ -1,3 +1,59 @@
 INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 75) ms3.Parse.ravel_piano.Ravel_-_Jeux_dEau
 	The incomplete MC 75 (timesig 1, act_dur 3/8) is completed by 1 incorrect duration
     But that's OK because m. 72 is a cadenza-like measure that spans MC 72-75 (incl.).
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes
+	None of the MCs following the irregular MC 17 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 18) ms3.Parse.ravel_piano.Ravel_-_Miroirs_II_Oiseaux_tristes
+	None of the MCs following the irregular MC 18 complete it.
+
+    The above result from using compound and simple meters interchangeably without announcement, and these two warnings refer in fact to the same bar: mc 17 (mn 15) duration 9/16 is functioning as 2/4, and the 2/4 mc 18 completes mn 15.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 13) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 13 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 14) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 14 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 25) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 25 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 26) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 26 complete it.
+
+    In each of these cases a group of 4 grace-note 16ths was engraved as small metrical 16ths for spacing reasons.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 45) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 45 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 46) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 46 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 48) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 48 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 49) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 49 complete it.
+
+    The additional beats in MCs 46 and 49, which leave them unable to complete MCs 45 and 48 respectively, result from the first portion of the bar being a cadenza-like flourish outside of the meter.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 50) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 50 complete it.
+
+    In the PDF, this is a genuine really-existing incomplete bar with a time-signature change partway through.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 147) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 147 complete it.
+
+    Really a 6/8 bar with a hemiola, resulting from mixing compound and simple meters.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 148) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 148 complete it.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 149) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+	None of the MCs following the irregular MC 149 complete it.
+
+    Resulting from 'grace notes to nowhere' which in MS3 have to be notated as if they were metered.
+
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 6, 18, 79, 84) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean

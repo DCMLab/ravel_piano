@@ -160,21 +160,29 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q1180</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1905</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Miroirs</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Maurice Ravel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-11-19</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Miroirs%2C_M.43_(Ravel%2C_Maurice)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Oiseaux tristes</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/1542bc44-fead-354a-b6a1-0f41e169d1a2</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/918861</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source">http://musescore.com/user/2749876/scores/5499618</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/2749876</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185362313/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q770354</metaTag>
+    <metaTag name="workNumber">M.43</metaTag>
     <metaTag name="workTitle">Miroirs</metaTag>
     <Part>
       <Staff id="1">
@@ -194,12 +202,6 @@
         <hideWhenEmpty>2</hideWhenEmpty>
         <barLineSpan>1</barLineSpan>
         <distOffset>6.24</distOffset>
-        </Staff>
-      <Staff id="3">
-        <StaffType group="pitched">
-          <name>stdNormal</name>
-          </StaffType>
-        <distOffset>6.25</distOffset>
         </Staff>
       <trackName>Piano</trackName>
       <Instrument id="piano">
@@ -254,12 +256,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><b><font size="19"></font><font face="Tw Cen MT"></font>Miroirs</b></text>
+          <text>2. Oiseaux tristes</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="0" y="13.2403"/>
-          <text>2. Oiseaux tristes</text>
+          <text>from: Miroirs, M.43</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -3960,6 +3961,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Tuplet>
             <visible>0</visible>
@@ -4783,6 +4785,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -5348,6 +5351,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Tuplet>
             <visible>0</visible>
@@ -6117,6 +6121,7 @@
           </voice>
         </Measure>
       <Measure len="3/4">
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -8560,6 +8565,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -9493,6 +9499,7 @@
           </voice>
         </Measure>
       <Measure len="2/4">
+        <irregular>1</irregular>
         <voice>
           <Tempo>
             <tempo>0.41666700000000001</tempo>
@@ -11238,6 +11245,7 @@
           </voice>
         </Measure>
       <Measure len="5/4">
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -12230,6 +12238,7 @@
           </voice>
         </Measure>
       <Measure len="4/4">
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -20985,417 +20994,6 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          </voice>
-        </Measure>
-      </Staff>
-    <Staff id="3">
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-6</accidental>
-            </KeySig>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>3</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>12</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>12/8</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>2</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>4</accidental>
-            </KeySig>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="9/16">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="1/4">
-        <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="3/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>2</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <KeySig>
-            <accidental>-1</accidental>
-            </KeySig>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="2/4">
-        <voice>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <TimeSig>
-            <sigN>2</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="5/4">
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="5/4">
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure len="4/4">
-        <voice>
-          <Rest>
-            <durationType>whole</durationType>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
-          <TimeSig>
-            <subtype>1</subtype>
-            <sigN>4</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <accidental>-6</accidental>
-            </KeySig>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
