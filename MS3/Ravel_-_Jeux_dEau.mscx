@@ -53999,7 +53999,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.vii%7(#4)</name>
+            <name>vi.#vii%7(4)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
