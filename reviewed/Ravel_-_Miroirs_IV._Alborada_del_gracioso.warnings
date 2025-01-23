@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso
-	No metronome mark found in the first measure nor anywhere else in the score.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 39, '3/4', 'V') ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso
 	The label 'V' in m. 39, onset 3/4 (MC 39, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of D.bI, it expresses the scale degrees
