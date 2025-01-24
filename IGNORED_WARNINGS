@@ -57,3 +57,12 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 149) ms3.Parse.ravel_piano.Ravel_-_M
     Resulting from 'grace notes to nowhere' which in MS3 have to be notated as if they were metered.
 
 MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 6, 18, 79, 84) ms3.Parse.ravel_piano.Ravel_-_Miroirs_III_Une_Barque_sur_l'ocean
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 39, '3/4', 'V') ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso
+	The label 'V' in m.39 is OK as it serves as root note for the harmony.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 40, '3/4', 'V') ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso
+	The label 'V' in m.40 is OK as it serves as root note for the harmony.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 85, '3/8', 'IV.I') ms3.Parse.ravel_piano.Ravel_-_Miroirs_IV_Alborada_del_gracioso
+	The label 'IV.I' in m.85 is warranted as the key change to G major is outlined in one voice only.

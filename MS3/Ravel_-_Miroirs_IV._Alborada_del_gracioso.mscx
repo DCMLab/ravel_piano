@@ -287,7 +287,8 @@
           <Tempo>
             <tempo>2.3000000000000003</tempo>
             <followText>1</followText>
-            <text><b>Assez vif. </b><font face="ScoreText"/> <b><font face="Edwin"/> = 92</b></text>
+            <visible>0</visible>
+            <text><b>Assez vif. </b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -54136,7 +54137,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65(4)</name>
+            <name>ii6(2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -55692,7 +55693,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii.V7(94)/bII</name>
+            <name>bvii.#IVM7(#6#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
