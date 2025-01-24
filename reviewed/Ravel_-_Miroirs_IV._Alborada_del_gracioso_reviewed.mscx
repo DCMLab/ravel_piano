@@ -287,6 +287,7 @@
           <Tempo>
             <tempo>2.3000000000000003</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b>Assez vif. </b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Rest>
@@ -36053,7 +36054,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Events>
                 <Event>
                   </Event>
@@ -36076,7 +36076,6 @@
               <tpc>24</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
@@ -36091,7 +36090,6 @@
               <tpc>21</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Events>
                 <Event>
                   <ontime>300</ontime>
@@ -36150,7 +36148,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -36209,7 +36206,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -54569,7 +54565,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65(4)</name>
+            <name>ii6(2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -54577,7 +54573,6 @@
               <subtype>articAccentAbove</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -54682,7 +54677,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>78</pitch>
               <tpc>20</tpc>
               </Note>
@@ -56164,12 +56158,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii.V7(94)/bII</name>
+            <name>bvii.#IVM7(#6#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -56180,7 +56173,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -56191,7 +56183,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
@@ -56218,7 +56209,6 @@
               <offset x="0.788281" y="-0.296094"/>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
@@ -56246,7 +56236,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>51</pitch>
               <tpc>23</tpc>
               </Note>
