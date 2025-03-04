@@ -158,6 +158,7 @@
     <metaTag name="P86 (composer)">Q1181</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1905</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/Miroirs</metaTag>
     <metaTag name="composed_start">1904</metaTag>
