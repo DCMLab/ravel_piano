@@ -158,6 +158,7 @@
     <metaTag name="P86 (composer)">Q1178</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1901</metaTag>
     <metaTag name="composed_source">https://en.wikipedia.org/wiki/Jeux_d%27eau_(Ravel)</metaTag>
     <metaTag name="composed_start">1901</metaTag>

@@ -30,7 +30,7 @@
       },
       {
         "name": "quarterbeats",
-        "title": "Offset from Beginning",
+        "title": "Offset from Beginning (leaving out alternative endings)",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "type": "string",
         "constraints": {
@@ -39,7 +39,7 @@
       },
       {
         "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (Including Endings)",
+        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
@@ -148,6 +148,18 @@
         "type": "string"
       },
       {
+        "name": "tempo",
+        "type": "string"
+      },
+      {
+        "name": "qpm",
+        "type": "string"
+      },
+      {
+        "name": "tempo_visible",
+        "type": "string"
+      },
+      {
         "name": "slur",
         "title": "Slur",
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers.",
@@ -164,23 +176,11 @@
         "type": "string"
       },
       {
-        "name": "TextLine",
+        "name": "Ottava:8vb",
         "type": "string"
       },
       {
-        "name": "TextLine_rall.",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "diminuendo_line",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
@@ -188,17 +188,29 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8vb",
+        "name": "diminuendo_line",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "TextLine",
+        "type": "string"
+      },
+      {
+        "name": "TextLine_rall.",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "8CCEkQUQUoM1GA",
-    "filepath": "chords/8CCEkQUQUoM1GA.schema.yaml",
+    "identifier": "QK6khRprHp2oyQ",
+    "filepath": "chords/QK6khRprHp2oyQ.schema.yaml",
     "used_in": "Ravel_-_Jeux_dEau"
   },
   "creator": {
@@ -211,8 +223,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.0"
+    "softwareVersion": "2.5.4"
   },
-  "git_revision": "39fba96566d108d5879554040b822dff1ceae4a3",
-  "git_tag": "v2.0"
+  "git_revision": "16ac5f80f119b775191027633084e7167353bd2b",
+  "git_tag": "v2.4"
 }
